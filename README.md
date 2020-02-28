@@ -10,3 +10,5 @@
  
  
  https://en.wikipedia.org/wiki/Maze_generation_algorithm
+ Followed:
+ https://youtu.be/HyK_Q5rrcr4
