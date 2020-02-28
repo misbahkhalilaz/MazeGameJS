@@ -1,5 +1,5 @@
 var cols, rows;
-var w = 60;
+var w = 60;   //change this to change difficulty
 var grid = [];
 var check = 0;
 var current;
