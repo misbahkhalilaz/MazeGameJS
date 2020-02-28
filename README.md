@@ -1,6 +1,7 @@
 # MazeGameJS
 # Auto Maze Generator
 # Maze Auto Player
+# p5js
  Auto Maze generator JS implementation.
  Auto player.
  Implemented using DFS.
